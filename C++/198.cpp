@@ -1,4 +1,4 @@
-// #1: dp array
+// #1: using array
 // class Solution {
 // public:
 //     int rob(vector<int> &nums) {
@@ -13,7 +13,6 @@
 //         return dp[size - 1];
 //     }
 // };
-
 
 
 // #2: no array
