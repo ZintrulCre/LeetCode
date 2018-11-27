@@ -2,6 +2,4 @@
 * C++ / Java / Python
 
 | # | Title | Topics | C++ | Java | Python
-| ------ | ------ | ------ | ------ | ------ | ------ |
-| test | test | ------ | ------ | ------ | ------ |
-| test | test | ------ | ------ | ------ | ------ |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | DP | [C++]() | Java | Python |
