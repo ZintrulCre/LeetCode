@@ -1,5 +1,4 @@
 * https://leetcode.com/zintrulcre/
-* C++ / Java / Python
 
 | # | Title | Topic | C++ | Java | Python|
 | :------: | :------: | :------: | :------: | :------: | :------: |
@@ -8,3 +7,4 @@
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | DP | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/746.cpp) | Java | Python |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | DP | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/70.cpp) | Java | Python |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | DP | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/53.cpp) | Java | Python |
+| 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/Range-Sum-Query-Immutable/) | DP | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/303.cpp) | Java | Python |
