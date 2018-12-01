@@ -8,11 +8,13 @@
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | DP | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/70.cpp) | Java | Python |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | DP | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/53.cpp) | Java | Python |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/Range-Sum-Query-Immutable/) | DP | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/303.cpp) | Java | Python |
+| 338 | [Counting Bits](https://leetcode.com/problems/Counting-Bits/) | DP, Bit | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/338.cpp) | Java | Python |
 | 877 | [Stone Game](https://leetcode.com/problems/Stone-Game/) | DP | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/877.cpp) | Java | Python |
 | 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/Minimum-Falling-Path-Sum/) | DP | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/931.cpp) | Java | Python |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/Palindromic-Substrings/) | DP | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/647.cpp) | Java | Python |
 | 413 | [Arithmetic Slices](https://leetcode.com/problems/Arithmetic-Slices/) | DP | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/413.cpp) | Java | Python |
-| 338 | [Counting Bits](https://leetcode.com/problems/Counting-Bits/) | DP, Bit | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/338.cpp) | Java | Python |
+| 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/Delete-Columns-to-Make-Sorted/) | Greedy | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/944.cpp) | Java | Python |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-II/) | Greedy | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/122.cpp) | Java | Python |
 | 682 | [Baseball Game](https://leetcode.com/problems/Baseball-Game/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/682.cpp) | Java | Python |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/Next-Greater-Element-I/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/496.cpp) | Java | Python |
 | 155 | [Min Stack](https://leetcode.com/problems/Min-Stack/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/155.cpp) | Java | Python |
