@@ -20,5 +20,8 @@
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/Delete-Node-in-a-Linked-List/) | Linked List | easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/237.cpp) | Java | Python |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/Reverse-Linked-List/) | Linked List | easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/206.cpp) | Java | Python |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/Middle-of-the-Linked-List/) | Linked List | easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/876.cpp) | Java | Python |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/Intersection-of-Two-Linked-Lists/) | Linked List | easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/160.cpp) | Java | Python |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/Linked-List-Cycle/) | Linked List | easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/141.cpp) | Java | Python |
+| 707 | [Design Linked List](https://leetcode.com/problems/Design-Linked-List/) | Linked List | easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/707.cpp) | Java | Python |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/Sort-Array-By-Parity/) | Array | easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/905.cpp) | Java | Python |
 | 832 | [Flipping an Image](https://leetcode.com/problems/Flipping-an-Image/) | Array, Bit | easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/832.cpp) | Java | Python |
