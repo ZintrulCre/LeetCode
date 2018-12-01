@@ -15,6 +15,10 @@
 | 338 | [Counting Bits](https://leetcode.com/problems/Counting-Bits/) | DP, Bit | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/338.cpp) | Java | Python |
 | 682 | [Baseball Game](https://leetcode.com/problems/Baseball-Game/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/682.cpp) | Java | Python |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/Next-Greater-Element-I/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/496.cpp) | Java | Python |
+| 155 | [Min Stack](https://leetcode.com/problems/Min-Stack/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/155.cpp) | Java | Python |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/Valid-Parentheses/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/20.cpp) | Java | Python |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/Implement-Stack-using-Queues/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/225.cpp) | Java | Python |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/Implement-Queue-using-Stacks/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/232.cpp) | Java | Python |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/Palindrome-Linked-List/) | Linked List | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/234.cpp) | Java | Python |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/Remove-Linked-List-Elements/) | Linked List | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/203.cpp) | Java | Python |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/Remove-Duplicates-from-Sorted-List/) | Linked List | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/83.cpp) | Java | Python |
