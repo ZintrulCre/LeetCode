@@ -21,6 +21,11 @@
 | 413 | [Arithmetic Slices](https://leetcode.com/problems/Arithmetic-Slices/) | DP | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/413.cpp) | Java | Python |
 | 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/Delete-Columns-to-Make-Sorted/) | Greedy | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/944.cpp) | Java | Python |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-II/) | Greedy | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/122.cpp) | Java | Python |
+| 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/Maximum-Depth-of-N-ary-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/559.cpp) | Java | Python |
+| 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/Search-in-a-Binary-Search-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/700.cpp) | Java | Python |
+| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/Merge-Two-Binary-Trees/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/617.cpp) | Java | Python |
+| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/N-ary-Tree-Preorder-Traversal/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/589.cpp) | Java | Python |
+| 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/N-ary-Tree-Postorder-Traversal/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/590.cpp) | Java | Python |
 | 682 | [Baseball Game](https://leetcode.com/problems/Baseball-Game/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/682.cpp) | Java | Python |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/Next-Greater-Element-I/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/496.cpp) | Java | Python |
 | 155 | [Min Stack](https://leetcode.com/problems/Min-Stack/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/155.cpp) | Java | Python |
