@@ -2,8 +2,8 @@
 
 | Weekly Contest | # | Title | Score | C++ | Java | Python|
 | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
-| 113 | 949 | [Largest Time for Given Digits](https://leetcode.com/contest/weekly-contest-113/problems/largest-time-for-given-digits/) | 4 | C++ | Java | Python |
-| 113 | 951 | [Flip Equivalent Binary Trees](https://leetcode.com/contest/weekly-contest-113/problems/flip-equivalent-binary-trees/) | 5 | C++ | Java | Python |
+| 113 | 949 | [Largest Time for Given Digits](https://leetcode.com/contest/weekly-contest-113/problems/largest-time-for-given-digits/) | 4 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/949.cpp) | Java | Python |
+| 113 | 951 | [Flip Equivalent Binary Trees](https://leetcode.com/contest/weekly-contest-113/problems/flip-equivalent-binary-trees/) | 5 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/951.cpp) | Java | Python |
 
 
 | # | Title | Topic | Difficulty | C++ | Java | Python|
