@@ -1,5 +1,11 @@
 * https://leetcode.com/zintrulcre/
 
+| Weekly Contest | # | Title | Score | C++ | Java | Python|
+| :------: | :------: | :------: | :------: | :------: | :------: | :------: |
+| 113 | 949 | [Largest Time for Given Digits](https://leetcode.com/contest/weekly-contest-113/problems/largest-time-for-given-digits/) | 4 | C++ | Java | Python |
+| 113 | 951 | [Flip Equivalent Binary Trees](https://leetcode.com/contest/weekly-contest-113/problems/flip-equivalent-binary-trees/) | 5 | C++ | Java | Python |
+
+
 | # | Title | Topic | Difficulty | C++ | Java | Python|
 | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | DP | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/198.cpp) | Java | Python |
