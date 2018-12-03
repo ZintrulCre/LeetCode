@@ -26,6 +26,9 @@
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/Merge-Two-Binary-Trees/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/617.cpp) | Java | Python |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/N-ary-Tree-Preorder-Traversal/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/589.cpp) | Java | Python |
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/N-ary-Tree-Postorder-Traversal/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/590.cpp) | Java | Python |
+| 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/Trim-a-Binary-Search-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/669.cpp) | Java | Python |
+| 872 | [Leaf-Similar Trees](https://leetcode.com/problems/Leaf-Similar-Trees/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/872.cpp) | Java | Python |
+| 897 | [Increasing Order Search Tree](https://leetcode.com/problems/Increasing-Order-Search-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/897.cpp) | Java | Python |
 | 682 | [Baseball Game](https://leetcode.com/problems/Baseball-Game/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/682.cpp) | Java | Python |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/Next-Greater-Element-I/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/496.cpp) | Java | Python |
 | 155 | [Min Stack](https://leetcode.com/problems/Min-Stack/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/155.cpp) | Java | Python |
