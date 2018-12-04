@@ -29,6 +29,10 @@
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/Trim-a-Binary-Search-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/669.cpp) | Java | Python |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/Leaf-Similar-Trees/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/872.cpp) | Java | Python |
 | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/Increasing-Order-Search-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/897.cpp) | Java | Python |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/Invert-Binary-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/226.cpp) | Java | Python |
+| 429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/N-ary-Tree-Level-Order Traversal/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/429.cpp) | Java | Python |
+| 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/Average-of-Levels-in-Binary-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/637.cpp) | Java | Python |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/Maximum-Depth-of-Binary-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/104.cpp) | Java | Python |
 | 682 | [Baseball Game](https://leetcode.com/problems/Baseball-Game/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/682.cpp) | Java | Python |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/Next-Greater-Element-I/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/496.cpp) | Java | Python |
 | 155 | [Min Stack](https://leetcode.com/problems/Min-Stack/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/155.cpp) | Java | Python |
