@@ -52,3 +52,4 @@
 | 817 | [Linked List Components](https://leetcode.com/problems/Linked-List-Components/) | Linked List | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/817.cpp) | Java | Python |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/Sort-Array-By-Parity/) | Array | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/905.cpp) | Java | Python |
 | 832 | [Flipping an Image](https://leetcode.com/problems/Flipping-an-Image/) | Array, Bit | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/832.cpp) | Java | Python |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/Intersection-of-Two-Arrays/) | Unique | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/349.cpp) | Java | Python |
