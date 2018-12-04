@@ -20,7 +20,8 @@
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/Palindromic-Substrings/) | DP | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/647.cpp) | Java | Python |
 | 413 | [Arithmetic Slices](https://leetcode.com/problems/Arithmetic-Slices/) | DP | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/413.cpp) | Java | Python |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/Peak-Index-in-a-Mountain-Array/) | Binary Search | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/852.cpp) | Java | Python |
-| 771 | [Jewels and Stones](https://leetcode.com/problems/Jewels-and-Stones/) | Hash Table | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/771.cpp) | Java | Python |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/Jewels-and-Stones/) | Hash | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/771.cpp) | Java | Python |
+| 811 | [Subdomain Visit Count](https://leetcode.com/problems/Subdomain-Visit-Count/) | Hash | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/811.cpp) | Java | Python |
 | 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/Delete-Columns-to-Make-Sorted/) | Greedy | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/944.cpp) | Java | Python |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-II/) | Greedy | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/122.cpp) | Java | Python |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/Maximum-Depth-of-N-ary-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/559.cpp) | Java | Python |
