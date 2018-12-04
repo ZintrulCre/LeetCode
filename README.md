@@ -20,6 +20,7 @@
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/Palindromic-Substrings/) | DP | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/647.cpp) | Java | Python |
 | 413 | [Arithmetic Slices](https://leetcode.com/problems/Arithmetic-Slices/) | DP | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/413.cpp) | Java | Python |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/Peak-Index-in-a-Mountain-Array/) | Binary Search | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/852.cpp) | Java | Python |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/Jewels-and-Stones/) | Hash Table | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/771.cpp) | Java | Python |
 | 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/Delete-Columns-to-Make-Sorted/) | Greedy | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/944.cpp) | Java | Python |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-II/) | Greedy | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/122.cpp) | Java | Python |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/Maximum-Depth-of-N-ary-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/559.cpp) | Java | Python |
@@ -54,3 +55,4 @@
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/Sort-Array-By-Parity/) | Array | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/905.cpp) | Java | Python |
 | 832 | [Flipping an Image](https://leetcode.com/problems/Flipping-an-Image/) | Array, Bit | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/832.cpp) | Java | Python |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/Intersection-of-Two-Arrays/) | Unique | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/349.cpp) | Java | Python |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/Two-Sum-II-Input-array-is-sorted/) | Two Pointers | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/167.cpp) | Java | Python |
