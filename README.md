@@ -25,6 +25,7 @@
 | 575 | [Distribute Candies](https://leetcode.com/problems/Distribute-Candies/) | Hash | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/575.cpp) | Java | Python |
 | 500 | [Keyboard Row](https://leetcode.com/problems/Keyboard-Row/) | Hash | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/500.cpp) | Java | Python |
 | 748 | [Shortest Completing Word](https://leetcode.com/problems/Shortest-Completing-Word/) | Hash | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/748.cpp) | Java | Python |
+| 242 | [Valid Anagram](https://leetcode.com/problems/Valid-Anagram/) | Hash | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/242.cpp) | Java | Python |
 | 136 | [Single Number](https://leetcode.com/problems/Single-Number/) | Hash, Bit | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/136.cpp) | Java | Python |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/Subdomain-Visit-Count/) | Hash, String | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/811.cpp) | Java | Python |
 | 463 | [Island Perimeter](https://leetcode.com/problems/Island-Perimeter/) | DFS | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/463.cpp) | Java | Python |
