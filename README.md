@@ -43,6 +43,9 @@
 | 429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/N-ary-Tree-Level-Order-Traversal/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/429.cpp) | Java | Python |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/Average-of-Levels-in-Binary-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/637.cpp) | Java | Python |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/Maximum-Depth-of-Binary-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/104.cpp) | Java | Python |
+| 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/Two-Sum-IV-Input-is-a-BST/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/653.cpp) | Java | Python |
+| 606 | [Construct String from Binary Tree](https://leetcode.com/problems/Construct-String-from-Binary-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/606.cpp) | Java | Python |
+| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/Convert-BST-to-Greater-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/538.cpp) | Java | Python |
 | 682 | [Baseball Game](https://leetcode.com/problems/Baseball-Game/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/682.cpp) | Java | Python |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/Next-Greater-Element-I/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/496.cpp) | Java | Python |
 | 155 | [Min Stack](https://leetcode.com/problems/Min-Stack/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/155.cpp) | Java | Python |
@@ -64,4 +67,5 @@
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/Intersection-of-Two-Arrays/) | Array | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/349.cpp) | Java | Python |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/Two-Sum-II-Input-array-is-sorted/) | Array | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/167.cpp) | Java | Python |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/Sort-Array-By-Parity-II/) | Array | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/922.cpp) | Java | Python |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/Intersection-of-Two-Arrays-II/) | Array | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/350.cpp) | Java | Python |
 | 832 | [Flipping an Image](https://leetcode.com/problems/Flipping-an-Image/) | Array, Bit | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/832.cpp) | Java | Python |
