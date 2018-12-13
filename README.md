@@ -46,6 +46,9 @@
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/Two-Sum-IV-Input-is-a-BST/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/653.cpp) | Java | Python |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/Construct-String-from-Binary-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/606.cpp) | Java | Python |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/Convert-BST-to-Greater-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/538.cpp) | Java | Python |
+| 100 | [Same Tree](https://leetcode.com/problems/Same-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/100.cpp) | Java | Python |
+| 404 | [Sum of Left Leaves](https://leetcode.com/problems/Sum-of-Left-Leaves/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/404.cpp) | Java | Python |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/Convert-Sorted-Array-to-Binary-Search-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/108.cpp) | Java | Python |
 | 682 | [Baseball Game](https://leetcode.com/problems/Baseball-Game/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/682.cpp) | Java | Python |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/Next-Greater-Element-I/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/496.cpp) | Java | Python |
 | 155 | [Min Stack](https://leetcode.com/problems/Min-Stack/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/155.cpp) | Java | Python |
