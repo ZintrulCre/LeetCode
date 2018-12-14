@@ -49,6 +49,9 @@
 | 100 | [Same Tree](https://leetcode.com/problems/Same-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/100.cpp) | Java | Python |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/Sum-of-Left-Leaves/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/404.cpp) | Java | Python |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/Convert-Sorted-Array-to-Binary-Search-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/108.cpp) | Java | Python |
+| 563 | [Binary Tree Tilt](https://leetcode.com/problems/Binary-Tree-Tilt/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/563.cpp) | Java | Python |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/Diameter-of-Binary-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/543.cpp) | Java | Python |
+| 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/Binary-Tree-Level-Order-Traversal-II/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/107.cpp) | Java | Python |
 | 682 | [Baseball Game](https://leetcode.com/problems/Baseball-Game/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/682.cpp) | Java | Python |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/Next-Greater-Element-I/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/496.cpp) | Java | Python |
 | 155 | [Min Stack](https://leetcode.com/problems/Min-Stack/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/155.cpp) | Java | Python |
