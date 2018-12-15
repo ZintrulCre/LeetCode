@@ -55,6 +55,10 @@
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/Binary-Tree-Paths/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/257.cpp) | Java | Python |
 | 671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/Second-Minimum-Node-In-a-Binary-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/671.cpp) | Java | Python |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/Lowest-Common-Ancestor-of-a-Binary-Search-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/235.cpp) | Java | Python |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/Symmetric-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/101.cpp) | Java | Python |
+| 437 | [Path Sum III](https://leetcode.com/problems/Path-Sum-III/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/437.cpp) | Java | Python |
+| 572 | [Subtree of Another Tree](https://leetcode.com/problems/Subtree-of-Another-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/572.cpp) | Java | Python |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/Balanced-Binary-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/110.cpp) | Java | Python |
 | 682 | [Baseball Game](https://leetcode.com/problems/Baseball-Game/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/682.cpp) | Java | Python |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/Next-Greater-Element-I/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/496.cpp) | Java | Python |
 | 155 | [Min Stack](https://leetcode.com/problems/Min-Stack/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/155.cpp) | Java | Python |
