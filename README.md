@@ -52,6 +52,9 @@
 | 563 | [Binary Tree Tilt](https://leetcode.com/problems/Binary-Tree-Tilt/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/563.cpp) | Java | Python |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/Diameter-of-Binary-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/543.cpp) | Java | Python |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/Binary-Tree-Level-Order-Traversal-II/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/107.cpp) | Java | Python |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/Binary-Tree-Paths/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/257.cpp) | Java | Python |
+| 671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/Second-Minimum-Node-In-a-Binary-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/671.cpp) | Java | Python |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/Lowest-Common-Ancestor-of-a-Binary-Search-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/235.cpp) | Java | Python |
 | 682 | [Baseball Game](https://leetcode.com/problems/Baseball-Game/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/682.cpp) | Java | Python |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/Next-Greater-Element-I/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/496.cpp) | Java | Python |
 | 155 | [Min Stack](https://leetcode.com/problems/Min-Stack/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/155.cpp) | Java | Python |
