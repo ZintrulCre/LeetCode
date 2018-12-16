@@ -4,6 +4,8 @@
 | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | 113 | 949 | [Largest Time for Given Digits](https://leetcode.com/contest/weekly-contest-113/problems/largest-time-for-given-digits/) | 4 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/949.cpp) | Java | Python |
 | 113 | 951 | [Flip Equivalent Binary Trees](https://leetcode.com/contest/weekly-contest-113/problems/flip-equivalent-binary-trees/) | 5 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/951.cpp) | Java | Python |
+| 115 | 958 | [Check Completeness of a Binary Tree](https://leetcode.com/contest/weekly-contest-115/problems/Check-Completeness-of-a-Binary-Tree/) | 5 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/958.cpp) | Java | Python |
+| 115 | 957 | [Prison Cells After N Days](https://leetcode.com/contest/weekly-contest-115/problems/Prison-Cells-After-N-Days/) | 6 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/957.cpp) | Java | Python |
 
 
 | # | Title | Topic | Difficulty | C++ | Java | Python|
