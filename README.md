@@ -61,6 +61,10 @@
 | 437 | [Path Sum III](https://leetcode.com/problems/Path-Sum-III/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/437.cpp) | Java | Python |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/Subtree-of-Another-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/572.cpp) | Java | Python |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/Balanced-Binary-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/110.cpp) | Java | Python |
+| 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/Find-Mode-in-Binary-Search-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/501.cpp) | Java | Python |
+| 112 | [Path Sum](https://leetcode.com/problems/Path-Sum/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/112.cpp) | Java | Python |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/Minimum-Depth-of-Binary-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/111.cpp) | Java | Python |
+| 687 | [Longest Univalue Path](https://leetcode.com/problems/Longest-Univalue-Path/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/687.cpp) | Java | Python |
 | 682 | [Baseball Game](https://leetcode.com/problems/Baseball-Game/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/682.cpp) | Java | Python |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/Next-Greater-Element-I/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/496.cpp) | Java | Python |
 | 155 | [Min Stack](https://leetcode.com/problems/Min-Stack/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/155.cpp) | Java | Python |
