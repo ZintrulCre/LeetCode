@@ -22,6 +22,11 @@
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/Palindromic-Substrings/) | DP | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/647.cpp) | Java | Python |
 | 413 | [Arithmetic Slices](https://leetcode.com/problems/Arithmetic-Slices/) | DP | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/413.cpp) | Java | Python |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/Peak-Index-in-a-Mountain-Array/) | Binary Search | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/852.cpp) | Java | Python |
+| 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/Find-Smallest-Letter-Greater-Than-Target/) | Binary Search | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/744.cpp) | Java | Python |
+| 704 | [Binary Search](https://leetcode.com/problems/Binary-Search/) | Binary Search | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/704.cpp) | Java | Python |
+| 35 | [Search Insert Position](https://leetcode.com/problems/Search-Insert-Position/) | Binary Search | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/35.cpp) | Java | Python |
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/Valid-Perfect-Square/) | Binary Search | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/367.cpp) | Java | Python |
+| 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/Guess-Number-Higher-or-Lower/) | Binary Search | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/374.cpp) | Java | Python |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/Jewels-and-Stones/) | Hash | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/771.cpp) | Java | Python |
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/Uncommon-Words-from-Two-Sentences/) | Hash | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/884.cpp) | Java | Python |
 | 575 | [Distribute Candies](https://leetcode.com/problems/Distribute-Candies/) | Hash | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/575.cpp) | Java | Python |
