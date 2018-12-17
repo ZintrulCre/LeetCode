@@ -21,21 +21,21 @@
 | 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/Minimum-Falling-Path-Sum/) | DP | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/931.cpp) | Java | Python |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/Palindromic-Substrings/) | DP | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/647.cpp) | Java | Python |
 | 413 | [Arithmetic Slices](https://leetcode.com/problems/Arithmetic-Slices/) | DP | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/413.cpp) | Java | Python |
-| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/Peak-Index-in-a-Mountain-Array/) | Binary Search | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/852.cpp) | Java | Python |
-| 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/Find-Smallest-Letter-Greater-Than-Target/) | Binary Search | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/744.cpp) | Java | Python |
-| 704 | [Binary Search](https://leetcode.com/problems/Binary-Search/) | Binary Search | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/704.cpp) | Java | Python |
-| 35 | [Search Insert Position](https://leetcode.com/problems/Search-Insert-Position/) | Binary Search | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/35.cpp) | Java | Python |
-| 367 | [Valid Perfect Square](https://leetcode.com/problems/Valid-Perfect-Square/) | Binary Search | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/367.cpp) | Java | Python |
-| 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/Guess-Number-Higher-or-Lower/) | Binary Search | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/374.cpp) | Java | Python |
-| 771 | [Jewels and Stones](https://leetcode.com/problems/Jewels-and-Stones/) | Hash | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/771.cpp) | Java | Python |
-| 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/Uncommon-Words-from-Two-Sentences/) | Hash | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/884.cpp) | Java | Python |
-| 575 | [Distribute Candies](https://leetcode.com/problems/Distribute-Candies/) | Hash | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/575.cpp) | Java | Python |
-| 500 | [Keyboard Row](https://leetcode.com/problems/Keyboard-Row/) | Hash | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/500.cpp) | Java | Python |
-| 748 | [Shortest Completing Word](https://leetcode.com/problems/Shortest-Completing-Word/) | Hash | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/748.cpp) | Java | Python |
-| 242 | [Valid Anagram](https://leetcode.com/problems/Valid-Anagram/) | Hash | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/242.cpp) | Java | Python |
-| 136 | [Single Number](https://leetcode.com/problems/Single-Number/) | Hash, Bit | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/136.cpp) | Java | Python |
-| 811 | [Subdomain Visit Count](https://leetcode.com/problems/Subdomain-Visit-Count/) | Hash, String | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/811.cpp) | Java | Python |
-| 463 | [Island Perimeter](https://leetcode.com/problems/Island-Perimeter/) | DFS | Eazy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/463.cpp) | Java | Python |
+| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/Peak-Index-in-a-Mountain-Array/) | Binary Search | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/852.cpp) | Java | Python |
+| 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/Find-Smallest-Letter-Greater-Than-Target/) | Binary Search | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/744.cpp) | Java | Python |
+| 704 | [Binary Search](https://leetcode.com/problems/Binary-Search/) | Binary Search | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/704.cpp) | Java | Python |
+| 35 | [Search Insert Position](https://leetcode.com/problems/Search-Insert-Position/) | Binary Search | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/35.cpp) | Java | Python |
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/Valid-Perfect-Square/) | Binary Search | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/367.cpp) | Java | Python |
+| 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/Guess-Number-Higher-or-Lower/) | Binary Search | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/374.cpp) | Java | Python |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/Jewels-and-Stones/) | Hash | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/771.cpp) | Java | Python |
+| 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/Uncommon-Words-from-Two-Sentences/) | Hash | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/884.cpp) | Java | Python |
+| 575 | [Distribute Candies](https://leetcode.com/problems/Distribute-Candies/) | Hash | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/575.cpp) | Java | Python |
+| 500 | [Keyboard Row](https://leetcode.com/problems/Keyboard-Row/) | Hash | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/500.cpp) | Java | Python |
+| 748 | [Shortest Completing Word](https://leetcode.com/problems/Shortest-Completing-Word/) | Hash | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/748.cpp) | Java | Python |
+| 242 | [Valid Anagram](https://leetcode.com/problems/Valid-Anagram/) | Hash | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/242.cpp) | Java | Python |
+| 136 | [Single Number](https://leetcode.com/problems/Single-Number/) | Hash, Bit | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/136.cpp) | Java | Python |
+| 811 | [Subdomain Visit Count](https://leetcode.com/problems/Subdomain-Visit-Count/) | Hash, String | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/811.cpp) | Java | Python |
+| 463 | [Island Perimeter](https://leetcode.com/problems/Island-Perimeter/) | DFS | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/463.cpp) | Java | Python |
 | 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/Delete-Columns-to-Make-Sorted/) | Greedy | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/944.cpp) | Java | Python |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-II/) | Greedy | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/122.cpp) | Java | Python |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/Maximum-Depth-of-N-ary-Tree/) | Tree | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/559.cpp) | Java | Python |
