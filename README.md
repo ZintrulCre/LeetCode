@@ -27,6 +27,8 @@
 | 35 | [Search Insert Position](https://leetcode.com/problems/Search-Insert-Position/) | Binary Search | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/35.cpp) | Java | Python |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/Valid-Perfect-Square/) | Binary Search | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/367.cpp) | Java | Python |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/Guess-Number-Higher-or-Lower/) | Binary Search | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/374.cpp) | Java | Python |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/Sqrt(x)/) | Binary Search | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/69.cpp) | Java | Python |
+| 278 | [First Bad Version](https://leetcode.com/problems/First-Bad-Version/) | Binary Search | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/278.cpp) | Java | Python |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/Jewels-and-Stones/) | Hash | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/771.cpp) | Java | Python |
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/Uncommon-Words-from-Two-Sentences/) | Hash | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/884.cpp) | Java | Python |
 | 575 | [Distribute Candies](https://leetcode.com/problems/Distribute-Candies/) | Hash | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/575.cpp) | Java | Python |
