@@ -75,6 +75,9 @@
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/Maximum-Binary-Tree/) | Tree | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/654.cpp) | Java | Python |
 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/Insert-into-a-Binary-Search-Tree/) | Tree | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/701.cpp) | Java | Python |
 | 814 | [Binary Tree Pruning](https://leetcode.com/problems/Binary-Tree-Pruning/) | Tree | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/814.cpp) | Java | Python |
+| 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/Find-Bottom-Left-Tree-Value/) | Tree | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/513.cpp) | Java | Python |
+| 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/Find-Largest-Value-in-Each-Tree-Row/) | Tree | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/515.cpp) | Java | Python |
+| 889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal/) | Tree | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/889.cpp) | Java | Python |
 | 682 | [Baseball Game](https://leetcode.com/problems/Baseball-Game/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/682.cpp) | Java | Python |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/Next-Greater-Element-I/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/496.cpp) | Java | Python |
 | 155 | [Min Stack](https://leetcode.com/problems/Min-Stack/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/155.cpp) | Java | Python |
