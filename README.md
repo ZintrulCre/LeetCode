@@ -78,6 +78,10 @@
 | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/Find-Bottom-Left-Tree-Value/) | Tree | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/513.cpp) | Java | Python |
 | 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/Find-Largest-Value-in-Each-Tree-Row/) | Tree | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/515.cpp) | Java | Python |
 | 889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal/) | Tree | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/889.cpp) | Java | Python |
+| 919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/Complete-Binary-Tree-Inserter) | Tree | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/919.cpp) | Java | Python |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/Binary-Tree-Inorder-Traversal) | Tree | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/94.cpp) | Java | Python |
+| 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/Smallest-Subtree-with-all-the-Deepest-Nodes) | Tree | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/865.cpp) | Java | Python |
+| 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/Most-Frequent-Subtree-Sum) | Tree | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/508.cpp) | Java | Python |
 | 682 | [Baseball Game](https://leetcode.com/problems/Baseball-Game/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/682.cpp) | Java | Python |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/Next-Greater-Element-I/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/496.cpp) | Java | Python |
 | 155 | [Min Stack](https://leetcode.com/problems/Min-Stack/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/155.cpp) | Java | Python |
