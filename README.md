@@ -91,6 +91,8 @@
 | 449 | [Serialize and Deserialize BST](https://leetcode.com/problems/Serialize-and-Deserialize-BST) | Tree | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/449.cpp) | Java | Python |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/All-Nodes-Distance-K-in-Binary-Tree) | Tree | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/863.cpp) | Java | Python |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/Unique-Binary-Search-Trees) | Tree | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/96.cpp) | Java | Python |
+| 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/Check-Completeness-of-a-Binary-Tree) | Tree | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/958.cpp) | Java | Python |
+| 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/Find-Duplicate-Subtrees) | Tree | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/652.cpp) | Java | Python |
 | 337 | [House Robber III](https://leetcode.com/problems/House-Robber-III) | Tree, DP | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/337.cpp) | Java | Python |
 | 682 | [Baseball Game](https://leetcode.com/problems/Baseball-Game/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/682.cpp) | Java | Python |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/Next-Greater-Element-I/) | Stack | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/496.cpp) | Java | Python |
