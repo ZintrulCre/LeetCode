@@ -111,6 +111,10 @@
 | 141 | [Linked List Cycle](https://leetcode.com/problems/Linked-List-Cycle/) | Linked List | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/141.cpp) | Java | Python |
 | 707 | [Design Linked List](https://leetcode.com/problems/Design-Linked-List/) | Linked List | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/707.cpp) | Java | Python |
 | 817 | [Linked List Components](https://leetcode.com/problems/Linked-List-Components/) | Linked List | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/817.cpp) | Java | Python |
+| 445 | [Add Two Numbers II](https://leetcode.com/problems/Add-Two-Numbers-II/) | Linked List | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/445.cpp) | Java | Python |
+| 725 | [Split Linked List in Parts](https://leetcode.com/problems/Split-Linked-List-in-Parts/) | Linked List | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/817.cpp) | Java | Python |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/Odd-Even-Linked-List/) | Linked List | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/328.cpp) | Java | Python |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/Swap-Nodes-in-Pairs/) | Linked List | Medium | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/24.cpp) | Java | Python |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/Sort-Array-By-Parity/) | Array | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/905.cpp) | Java | [Python](https://github.com/ZintrulCre/LeetCode/blob/master/Python/905.py) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/Intersection-of-Two-Arrays/) | Array | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/349.cpp) | Java | Python |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/Two-Sum-II-Input-array-is-sorted/) | Array | Easy | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/C%2B%2B/167.cpp) | Java | Python |
