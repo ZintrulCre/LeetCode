@@ -1,23 +1,27 @@
 class Solution {
 public:
     int maxProfit(vector<int> &prices) {
-        const int size = prices.size();
-        if (size < 2)
-            return 0;
-        int profit = 0, buy = -1;
-        for (int i = 0; i < size - 1; ++i) {
-            if (buy == -1) {
-                if (prices[i] > prices[i + 1])
-                    continue;
-                buy = prices[i];
+        bool bought = false;
+        auto size = prices.size();
+        int profit = 0, price = 0;
+        int i = 0;
+        while (i < size) {
+            if (!bought) {
+                if (prices[i] < prices[i + 1] && i + 1 < size) {
+                    price = prices[i];
+                    bought = true;
+                }
             } else {
-                if (prices[i] <= prices[i + 1])
-                    continue;
-                profit += (prices[i] - buy);
-                buy = -1;
+                if (prices[i] > prices[i + 1] && i + 1 < size) {
+                    profit += (prices[i] - price);
+                    price = 0;
+                    bought = false;
+                }
             }
+            ++i;
         }
-        profit += (buy == -1 ? 0 : prices[size - 1] - buy);
+        if (bought)
+            profit += prices[i - 1] - price;
         return profit;
     }
 };
