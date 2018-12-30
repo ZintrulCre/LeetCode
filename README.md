@@ -6,6 +6,9 @@
 | 113 | 951 | [Flip Equivalent Binary Trees](https://leetcode.com/contest/weekly-contest-113/problems/flip-equivalent-binary-trees/) | 5 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/951.cpp) | Java | Python |
 | 115 | 958 | [Check Completeness of a Binary Tree](https://leetcode.com/contest/weekly-contest-115/problems/Check-Completeness-of-a-Binary-Tree/) | 5 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/958.cpp) | Java | Python |
 | 115 | 957 | [Prison Cells After N Days](https://leetcode.com/contest/weekly-contest-115/problems/Prison-Cells-After-N-Days/) | 6 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/957.cpp) | Java | Python |
+| 117 | 965 | [Univalued Binary Tree](https://leetcode.com/contest/weekly-contest-117/problems/Univalued-Binary-Tree/) | 3 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/965.cpp) | Java | [Python](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/Python/965.py) |
+| 117 | 967 | [Numbers With Same Consecutive Differences](https://leetcode.com/contest/weekly-contest-117/problems/Numbers-With-Same-Consecutive-Differences/) | 5 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/967.cpp) | Java | [Python](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/Python/967.py) |
+| 117 | 966 | [Vowel Spellchecker](https://leetcode.com/contest/weekly-contest-117/problems/Vowel-Spellchecker/) | 6 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/966.cpp) | Java | [Python](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/Python/966.py) |
 
 
 | # | Title | Topic | Difficulty | C++ | Java | Python|
