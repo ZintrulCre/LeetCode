@@ -9,6 +9,9 @@
 | 117 | 965 | [Univalued Binary Tree](https://leetcode.com/contest/weekly-contest-117/problems/Univalued-Binary-Tree/) | 3 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/965.cpp) | Java | [Python](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/Python/965.py) |
 | 117 | 967 | [Numbers With Same Consecutive Differences](https://leetcode.com/contest/weekly-contest-117/problems/Numbers-With-Same-Consecutive-Differences/) | 5 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/967.cpp) | Java | [Python](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/Python/967.py) |
 | 117 | 966 | [Vowel Spellchecker](https://leetcode.com/contest/weekly-contest-117/problems/Vowel-Spellchecker/) | 6 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/966.cpp) | Java | [Python](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/Python/966.py) |
+| 118 | 970 | [Powerful Integers](https://leetcode.com/contest/weekly-contest-118/problems/Vowel-Spellchecker/) | 3 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/970.cpp) | Java | [Python](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/Python/970.py) |
+| 118 | 969 | [Pancake Sorting](https://leetcode.com/contest/weekly-contest-118/problems/Vowel-Spellchecker/) | 5 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/969.cpp) | Java | [Python](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/Python/969.py) |
+| 118 | 971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/contest/weekly-contest-118/problems/Vowel-Spellchecker/) | 6 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/971.cpp) | Java | Python |
 
 
 | # | Title | Topic | Difficulty | C++ | Java | Python|
