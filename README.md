@@ -1,7 +1,7 @@
 <p align="center"><img src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png"></p>
-<h2 align="center"><strong>LeetCode Solutions</strong></center></h2>
-<h4 align="center">Last Updated: 2019-1-20 20:24:52</p></h4>
-<h3 align="center">Crawled by <a href = "https://github.com/ZintrulCre/LeetCode_Crawler">ZintrulCre/LeetCode_Crawler</a></h3>
+<h3 align="center"><strong>LeetCode Solutions</strong></center></h2>
+<p align="center">Last Updated: 2019-1-20 20:24:52</p></p>
+<p align="center">Crawled by <a href = "https://github.com/ZintrulCre/LeetCode_Crawler">ZintrulCre/LeetCode_Crawler</a></p>
 
 | # | title | submissions | topics | difficulty | accepted rate | likes | dislikes |
 | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
