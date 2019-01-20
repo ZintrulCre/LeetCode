@@ -9,7 +9,7 @@ public:
     void helper(Node *root, vector<int> &order) {
         if (!root)
             return;
-        for (auto &&child: root->children)
+        for (auto child: root->children)
             helper(child, order);
         order.push_back(root->val);
     }
