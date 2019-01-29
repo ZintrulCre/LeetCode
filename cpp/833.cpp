@@ -1,23 +1,23 @@
 /*
 class Solution {
 public:
-\u0009string findReplaceString(string S, vector<int>& indexes, vector<string>& sources, vector<string>& targets) {
-\u0009\u0009string s = S;
-\u0009\u0009int offset = 0;
-\u0009\u0009sort(indexes.begin(), indexes.end());
-\u0009\u0009for (int i = 0; i < indexes.size(); ++i) {
-\u0009\u0009\u0009int current = indexes[i];
-\u0009\u0009\u0009for (int j = 0; j < sources.size(); ++j) {
-\u0009\u0009\u0009\u0009if (S.substr(current,sources[j].size()).find(sources[j]) != string::npos) {
-\u0009\u0009\u0009\u0009\u0009s.replace(current + offset, sources[j].size(), targets[j]);
-\u0009\u0009\u0009\u0009\u0009offset += (targets[j].length() - sources[j].length());
-\u0009\u0009\u0009\u0009\u0009break;
-\u0009\u0009\u0009\u0009}
-\u0009\u0009\u0009}
+	string findReplaceString(string S, vector<int>& indexes, vector<string>& sources, vector<string>& targets) {
+		string s = S;
+		int offset = 0;
+		sort(indexes.begin(), indexes.end());
+		for (int i = 0; i < indexes.size(); ++i) {
+			int current = indexes[i];
+			for (int j = 0; j < sources.size(); ++j) {
+				if (S.substr(current,sources[j].size()).find(sources[j]) != string::npos) {
+					s.replace(current + offset, sources[j].size(), targets[j]);
+					offset += (targets[j].length() - sources[j].length());
+					break;
+				}
+			}
             cout << s << endl;
-\u0009\u0009}
-\u0009\u0009return s;
-\u0009}
+		}
+		return s;
+	}
 };
 */
 
