@@ -1,3 +1,7 @@
+bool operator<(const Interval &interval1, const Interval &interval2) {
+    return interval1.start < interval2.start;
+}
+
 class Solution {
 public:
     vector<Interval> merge(vector<Interval> &intervals) {

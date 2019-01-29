@@ -1,3 +1,4 @@
+
 class Solution {
 public:
 \u0009int integerBreak(int n) {
