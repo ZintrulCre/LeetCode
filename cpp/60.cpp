@@ -14,7 +14,7 @@ public:
             --k;
             if (k == 0)
                 for (int j = 0; j < n; ++j)
-                    ret += num[j] + \u00270\u0027;
+                    ret += num[j] + '0';
             return;
         }
         for (int i = 1; i <= n; ++i) {

@@ -9,6 +9,6 @@ class Solution(object):
         l = len(x)
         sum = 0
         for i in range(l):
-            if x[i] == \u00271\u0027:
+            if x[i] == '1':
                 sum += 1
         return sum

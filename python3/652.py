@@ -12,7 +12,7 @@ class Solution:
 
         def Traverse(node):
             if not node:
-                return \u0027#\u0027
+                return '#'
             serialized_tree = "{}{}{}".format(
                 node.val, Traverse(node.left), Traverse(node.right))
             cnt[serialized_tree] += 1

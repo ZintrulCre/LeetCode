@@ -44,11 +44,11 @@ public:
         vector<int> in = inorderTraverse(root);
 
         for (auto p: pre)
-            ret += to_string(p) + \u0027 \u0027;
-        ret += \u0027.\u0027;
+            ret += to_string(p) + ' ';
+        ret += '.';
         for (auto i: in)
-            ret += to_string(i) + \u0027 \u0027;
-        ret += \u0027.\u0027;
+            ret += to_string(i) + ' ';
+        ret += '.';
 
         return ret;
     }
@@ -58,20 +58,20 @@ public:
         vector<int> pre;
         vector<int> in;
         int i = 0;
-        while (data[i] != \u0027.\u0027 && i < data.size()) {
+        while (data[i] != '.' && i < data.size()) {
             int temp = 0;
-            while (data[i] != \u0027 \u0027) {
-                temp = temp * 10 + (data[i] - \u00270\u0027);
+            while (data[i] != ' ') {
+                temp = temp * 10 + (data[i] - '0');
                 ++i;
             }
             pre.push_back(temp);
             ++i;
         }
         ++i;
-        while (data[i] != \u0027.\u0027 && i < data.size()) {
+        while (data[i] != '.' && i < data.size()) {
             int temp = 0;
-            while (data[i] != \u0027 \u0027) {
-                temp = temp * 10 + (data[i] - \u00270\u0027);
+            while (data[i] != ' ') {
+                temp = temp * 10 + (data[i] - '0');
                 ++i;
             }
             in.push_back(temp);

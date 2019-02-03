@@ -16,7 +16,7 @@ public:
     }
 
     void FindString(TreeNode *node, string &curr) {
-        curr += (\u0027a\u0027 + node->val);
+        curr += ('a' + node->val);
         if (!node->left && !node->right)
             vec.push_back(curr);
         if (node->left)

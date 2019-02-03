@@ -2,7 +2,7 @@ class Solution {
 public:
     bool isAlienSorted(vector<string> &words, string order) {
         unordered_map<char, int> dic;
-        dic.insert(pair<char, int>(\u0027#\u0027, 0));
+        dic.insert(pair<char, int>('#', 0));
         for (int i = 1; i <= order.size(); ++i)
             dic.insert(pair<char, int>(order[i - 1], i));
         bool lex = false;

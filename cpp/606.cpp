@@ -13,13 +13,13 @@ public:
     void PreOrder(TreeNode *root, string &str) {
         if (!root)
             return;
-        str += \u0027(\u0027;
+        str += '(';
         str += to_string(root->val);
         if (!root->left && root->right)
             str += "()";
         PreOrder(root->left, str);
         PreOrder(root->right, str);
-        str += \u0027)\u0027;
+        str += ')';
         return;
     }
 };

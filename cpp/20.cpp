@@ -5,24 +5,24 @@ public:
         for (char c:s) {
             if (!parentheses.empty()) {
                 char first = parentheses.top(), second = c;
-                if (first == \u0027(\u0027) {
-                    if (second == \u0027)\u0027)
+                if (first == '(') {
+                    if (second == ')')
                         parentheses.pop();
-                    else if (second == \u0027]\u0027 || second == \u0027}\u0027)
+                    else if (second == ']' || second == '}')
                         return false;
                     else
                         parentheses.push(second);
-                } else if (first == \u0027[\u0027) {
-                    if (second == \u0027]\u0027)
+                } else if (first == '[') {
+                    if (second == ']')
                         parentheses.pop();
-                    else if (second == \u0027)\u0027 || second == \u0027}\u0027)
+                    else if (second == ')' || second == '}')
                         return false;
                     else
                         parentheses.push(second);
-                } else if (first == \u0027{\u0027) {
-                    if (second == \u0027}\u0027)
+                } else if (first == '{') {
+                    if (second == '}')
                         parentheses.pop();
-                    else if (second == \u0027)\u0027 || second == \u0027]\u0027)
+                    else if (second == ')' || second == ']')
                         return false;
                     else
                         parentheses.push(second);

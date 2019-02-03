@@ -1,5 +1,5 @@
 class Solution:
-    def sumEvenAfterQueries(self, A: \u0027List[int]\u0027, queries: \u0027List[List[int]]\u0027) -> \u0027List[int]\u0027:
+    def sumEvenAfterQueries(self, A: 'List[int]', queries: 'List[List[int]]') -> 'List[int]':
         m = sum(a for a in A if a % 2 == 0)
         ret = []
         for q in queries:

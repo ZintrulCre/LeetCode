@@ -3,7 +3,7 @@ public:
     vector<string> letterCombinations(string digits) {
         int n = digits.size();
         if(n == 0) return vector<string>();
-        char a = \u0027a\u0027;
+        char a = 'a';
         for (int i = 0; i < 8; ++i) {
             tran.push_back(vector<char>());
             for (int j = 0; j < 3; ++j)
@@ -23,8 +23,8 @@ public:
             ret.push_back(temp);
             return;
         }
-        for (int j = 0; j < (tran[digits[i] - \u00270\u0027 - 2]).size(); ++j) {
-            temp.push_back(tran[digits[i] - \u00270\u0027 - 2][j]);
+        for (int j = 0; j < (tran[digits[i] - '0' - 2]).size(); ++j) {
+            temp.push_back(tran[digits[i] - '0' - 2][j]);
             BackTracking(digits, n, i + 1, temp, ret);
             temp.pop_back();
         }

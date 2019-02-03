@@ -5,10 +5,10 @@ public:
         for (auto email:emails) {
             int i = 0;
             while (i < email.size()) {
-                if (email[i] == \u0027.\u0027)
+                if (email[i] == '.')
                     email.erase(email.begin() + i);
-                else if (email[i] == \u0027+\u0027) {
-                    unsigned long iter = email.find(\u0027@\u0027);
+                else if (email[i] == '+') {
+                    unsigned long iter = email.find('@');
                     email.erase(email.begin() + i, email.begin() + iter);
                     break;
                 } else

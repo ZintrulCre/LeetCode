@@ -15,9 +15,9 @@ public:
                 lowerCaseDict[word] = i;
 
             for (int i = 0; i < word.size(); ++i) {
-                if (word[i] == \u0027a\u0027 || word[i] == \u0027e\u0027 || word[i] == \u0027i\u0027 || word[i] == \u0027o\u0027 ||
-                    word[i] == \u0027u\u0027)
-                    word[i] = \u0027#\u0027;
+                if (word[i] == 'a' || word[i] == 'e' || word[i] == 'i' || word[i] == 'o' ||
+                    word[i] == 'u')
+                    word[i] = '#';
             }
             if(vowelDict.find(word) == vowelDict.end())
                 vowelDict[word] = i;
@@ -37,9 +37,9 @@ public:
             }
 
             for (int i = 0; i < q.size(); ++i) {
-                if (temp[i] == \u0027a\u0027 || temp[i] == \u0027e\u0027 || temp[i] == \u0027i\u0027 || temp[i] == \u0027o\u0027 ||
-                    temp[i] == \u0027u\u0027)
-                    temp[i] = \u0027#\u0027;
+                if (temp[i] == 'a' || temp[i] == 'e' || temp[i] == 'i' || temp[i] == 'o' ||
+                    temp[i] == 'u')
+                    temp[i] = '#';
             }
             if (vowelDict.find(temp) != vowelDict.end()) {
                 ret.push_back(wordlist[vowelDict[temp]]);

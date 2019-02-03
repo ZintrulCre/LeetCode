@@ -11,11 +11,11 @@ public:
     
     bool search(string word) {
         int n = word.size();
-        if(word.find_first_of(\u0027.\u0027) != string::npos) {            
+        if(word.find_first_of('.') != string::npos) {            
             for(auto e: m[n]) {
                 int isFind = 1;
                 for(int i = 0; i < n; ++i) {
-                    if(word[i] != \u0027.\u0027 && word[i] != e[i])                    
+                    if(word[i] != '.' && word[i] != e[i])                    
                         isFind = 0;
                 }                
                 if(isFind == 1)

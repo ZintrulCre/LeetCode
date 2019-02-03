@@ -12,11 +12,11 @@ public:
             return;
         }
         insert(S, sub + 1);
-        if(S[sub] >= \u0027a\u0027 && S[sub] <= \u0027z\u0027) {
+        if(S[sub] >= 'a' && S[sub] <= 'z') {
             S[sub] = toupper(S[sub]);
             insert(S, sub + 1);
         }
-        else if(S[sub] >= \u0027A\u0027 && S[sub] <= \u0027Z\u0027) {
+        else if(S[sub] >= 'A' && S[sub] <= 'Z') {
             S[sub] = tolower(S[sub]);
             insert(S, sub + 1);
         }

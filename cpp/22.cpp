@@ -16,7 +16,7 @@ public:
             ret.push_back(temp);
             return;
         }
-        BackTracking(left - 1, right, temp + \u0027(\u0027, ret);
-        BackTracking(left, right - 1, temp + \u0027)\u0027, ret);
+        BackTracking(left - 1, right, temp + '(', ret);
+        BackTracking(left, right - 1, temp + ')', ret);
     }
 };

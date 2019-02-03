@@ -4,7 +4,7 @@ public:
         int n = moves.size();
         vector<int> hori, vert;
         for (int i = 0; i < n; ++i) {
-            if (moves[i] == \u0027L\u0027 || moves[i] == \u0027R\u0027) {
+            if (moves[i] == 'L' || moves[i] == 'R') {
                 hori.push_back(moves[i]);
                 if (hori.size() > 1 && hori[hori.size() - 1] != hori[hori.size() - 2])
                     hori.erase(hori.end() - 2, hori.end());

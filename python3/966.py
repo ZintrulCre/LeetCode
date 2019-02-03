@@ -37,5 +37,5 @@ class Solution:
     def ReplacedStr(self, str):
         str = str.lower()
         for v in "aeiou":
-            str = str.replace(v, \u0027#\u0027)
+            str = str.replace(v, '#')
         return str

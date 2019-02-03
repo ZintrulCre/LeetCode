@@ -1,5 +1,5 @@
 class Solution:
-    def intervalIntersection(self, A: \u0027List[Interval]\u0027, B: \u0027List[Interval]\u0027) -> \u0027List[Interval]\u0027:
+    def intervalIntersection(self, A: 'List[Interval]', B: 'List[Interval]') -> 'List[Interval]':
         ret = []
         i, j, m, n = 0, 0, len(A), len(B)
         while i < m and j < n:

@@ -7,10 +7,10 @@ class Solution {
 public:
     string maskPII(string S) {
         for (int i = 0; i < S.size(); ++i) {
-            if (S[i] >= \u0027A\u0027 && S[i] <= \u0027Z\u0027)
-                S[i] -= (\u0027A\u0027 - \u0027a\u0027);
+            if (S[i] >= 'A' && S[i] <= 'Z')
+                S[i] -= ('A' - 'a');
         }
-        auto isMail = S.find(\u0027@\u0027);
+        auto isMail = S.find('@');
         string ret;
         if(isMail != string::npos){
             ret.append (S, 0, 1);
@@ -19,10 +19,10 @@ public:
             }
         else {
             for (int i = 0; i < S.size(); ++i)
-                if (S[i] >= \u00270\u0027 && S[i] <= \u00279\u0027)
+                if (S[i] >= '0' && S[i] <= '9')
                     ret.append (S, i, 1);
             for (int i = 0; i < ret.size() - 4; ++i)
-                ret[i] = \u0027*\u0027;
+                ret[i] = '*';
             if(ret.size() == 10){
                 ret.insert(3, "-");
                 ret.insert(7, "-");

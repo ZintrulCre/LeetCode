@@ -4,7 +4,7 @@ public:
         stack<string> s, t;
         string p;
         for (int i = 0; i <= path.size(); ++i) {
-            if (path[i] == \u0027/\u0027 || i == path.size()) {
+            if (path[i] == '/' || i == path.size()) {
                 if (p == "..") {
                     if (!s.empty())
                         s.pop();

@@ -11,7 +11,7 @@ public:
             for (int j = 0; j < m; ++j) {
                 if (board[i][j] == word[0]) {
                     char tmp = board[i][j];
-                    board[i][j] = \u0027\u005C0\u0027;
+                    board[i][j] = '\u005C0';
                     SearchWord(board, word, n, m, i - 1, j, 1, len);
                     SearchWord(board, word, n, m, i + 1, j, 1, len);
                     SearchWord(board, word, n, m, i, j - 1, 1, len);
@@ -34,7 +34,7 @@ public:
         }
         if (board[i][j] == word[k]) {
             char tmp = board[i][j];
-            board[i][j] = \u0027\u005C0\u0027;
+            board[i][j] = '\u005C0';
             SearchWord(board, word, n, m, i - 1, j, k + 1, len);
             SearchWord(board, word, n, m, i + 1, j, k + 1, len);
             SearchWord(board, word, n, m, i, j - 1, k + 1, len);

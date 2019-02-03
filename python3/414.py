@@ -7,9 +7,9 @@ class Solution:
         size = len(nums)
         if size < 3:
             return max(nums)
-        first = float(\u0027-inf\u0027)
-        second = float(\u0027-inf\u0027)
-        third = float(\u0027-inf\u0027)
+        first = float('-inf')
+        second = float('-inf')
+        third = float('-inf')
         for n in nums:
             if first < n:
                 third = second
@@ -24,4 +24,4 @@ class Solution:
                 continue
             elif third < n:
                 third = n
-        return third if third != float(\u0027-inf\u0027) else first
+        return third if third != float('-inf') else first

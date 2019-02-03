@@ -5,7 +5,7 @@ public:
         int minLen = INT_MAX;
         unordered_map<char, int> letters;
         for (char l : licensePlate)
-            if ((l >= \u0027a\u0027 && l <= \u0027z\u0027) || (l >= \u0027A\u0027 && l <= \u0027Z\u0027))
+            if ((l >= 'a' && l <= 'z') || (l >= 'A' && l <= 'Z'))
                 ++letters[tolower(l)];
         for (const string &w: words) {
             auto len = w.size();

@@ -1,5 +1,5 @@
 class Solution:
-    def smallestFromLeaf(self, root: \u0027TreeNode\u0027) -> \u0027str\u0027:
+    def smallestFromLeaf(self, root: 'TreeNode') -> 'str':
         if not root:
             return ""
         self.ret = "z" * 1000

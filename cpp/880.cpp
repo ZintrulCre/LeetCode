@@ -4,7 +4,7 @@ public:
         long long size = 0, i = 0;
         while (i < S.size()) {
             if (isdigit(S[i]))
-                size *= (S[i] - \u00270\u0027);
+                size *= (S[i] - '0');
             else
                 ++size;
             ++i;
@@ -16,7 +16,7 @@ public:
             if (K == 0 && !isdigit(S[i]))
                 return S.substr(i, 1);
             if (isdigit(S[i]))
-                size /= (S[i] - \u00270\u0027);
+                size /= (S[i] - '0');
             else
                 --size;
             --i;

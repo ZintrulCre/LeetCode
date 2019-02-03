@@ -17,7 +17,7 @@ public:
         s += to_string(node->val);
         string left = Traverse(node->left);
         string right = Traverse(node->right);
-        s += \u0027,\u0027 + left + \u0027,\u0027 + right;
+        s += ',' + left + ',' + right;
 
         if (m[s] == 1)
             sub.push_back(node);

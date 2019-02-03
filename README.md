@@ -1,11 +1,11 @@
-<p align="center"><img src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png"></p><h3 align='center'><strong>LeetCode Solutions</strong></center></h3><p align="center">Last Updated: 2019-2-3 18:40:25</p><p align="center">Crawled by <a href = "https://github.com/ZintrulCre/LeetCode_Crawler">ZintrulCre/LeetCode_Crawler</a></p>
+<p align="center"><img src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png"></p><h3 align='center'><strong>LeetCode Solutions</strong></center></h3><p align="center">Last Updated: 2019-2-3 19:17:7</p><p align="center">Crawled by <a href = "https://github.com/ZintrulCre/LeetCode_Crawler">ZintrulCre/LeetCode_Crawler</a></p>
 
 | # | title | submissions | topics | difficulty | accepted rate | likes | dislikes |
 | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
-| 988 | Smallest String Starting From Leaf | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/988.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/988.cpp) | Tree | Medium | 49.5% | 11 | 0
-| 987 | Vertical Order Traversal of a Binary Tree | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/987.cpp) | Hash Table, Tree | Medium | 31.1% | 12 | 21
+| 988 | Smallest String Starting From Leaf | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/988.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/988.cpp) | Tree | Medium | 49.7% | 12 | 0
+| 987 | Vertical Order Traversal of a Binary Tree | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/987.cpp) | Hash Table, Tree | Medium | 31.3% | 13 | 20
 | 986 | Interval List Intersections | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/986.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/986.cpp) | Two Pointers | Medium | 54.4% | 10 | 1
-| 985 | Sum of Even Numbers After Queries | [Golang](https://github.com/ZintrulCre/LeetCode/blob/master/golang/985.go), [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/985.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/985.cpp) | Array | Easy | 69.8% | 10 | 1
+| 985 | Sum of Even Numbers After Queries | [Golang](https://github.com/ZintrulCre/LeetCode/blob/master/golang/985.go), [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/985.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/985.cpp) | Array | Easy | 69.9% | 11 | 1
 | 984 | String Without AAA or BBB | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/984.cpp) | Greedy | Easy | 31.2% | 46 | 94
 | 983 | Minimum Cost For Tickets | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/983.cpp) | Dynamic Programming | Medium | 57.2% | 155 | 2
 | 982 | Triples with Bitwise AND Equal To Zero | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/982.cpp) | Dynamic Programming | Hard | 53.0% | 29 | 49
@@ -17,13 +17,13 @@
 | 974 | Subarray Sums Divisible by K | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/974.cpp), [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/974.py) | Array | Medium | 39.2% | 127 | 7
 | 973 | K Closest Points to Origin | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/973.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/973.cpp) | Math, Divide and Conquer, Sort | Easy | 67.1% | 93 | 15
 | 971 | Flip Binary Tree To Match Preorder Traversal | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/971.cpp) | Tree, Depth-first Search | Medium | 41.9% | 66 | 35
-| 970 | Powerful Integers | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/970.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/970.cpp) | Math | Easy | 38.9% | 28 | 67
-| 969 | Pancake Sorting | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/969.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/969.cpp) | Array, Sort | Medium | 61.9% | 66 | 70
+| 970 | Powerful Integers | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/970.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/970.cpp) | Math | Easy | 38.8% | 28 | 67
+| 969 | Pancake Sorting | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/969.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/969.cpp) | Array, Sort | Medium | 61.8% | 66 | 70
 | 967 | Numbers With Same Consecutive Differences | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/967.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/967.cpp) | Dynamic Programming | Medium | 35.8% | 59 | 13
 | 966 | Vowel Spellchecker | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/966.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/966.cpp) | Hash Table, String | Medium | 38.4% | 42 | 78
-| 965 | Univalued Binary Tree | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/965.cpp), [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/965.py) | Tree | Easy | 68.5% | 77 | 18
+| 965 | Univalued Binary Tree | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/965.cpp), [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/965.py) | Tree | Easy | 68.6% | 77 | 18
 | 962 | Maximum Width Ramp | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/962.cpp) | Array | Medium | 38.6% | 161 | 7
-| 961 | N-Repeated Element in Size 2N Array | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/961.cpp) | Hash Table | Easy | 73.4% | 85 | 71
+| 961 | N-Repeated Element in Size 2N Array | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/961.cpp) | Hash Table | Easy | 73.4% | 86 | 71
 | 958 | Check Completeness of a Binary Tree | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/958.cpp) | Tree | Medium | 45.7% | 112 | 3
 | 957 | Prison Cells After N Days | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/957.cpp) | Hash Table | Medium | 36.7% | 43 | 70
 | 954 | Array of Doubled Pairs | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/954.cpp) | Array, Hash Table | Medium | 33.5% | 73 | 8
@@ -36,7 +36,7 @@
 | 931 | Minimum Falling Path Sum | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/931.cpp) | Dynamic Programming | Medium | 57.0% | 168 | 14
 | 929 | Unique Email Addresses | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/929.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/929.cpp) | String | Easy | 79.3% | 300 | 79
 | 925 | Long Pressed Name | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/925.py), [Golang](https://github.com/ZintrulCre/LeetCode/blob/master/golang/925.go), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/925.cpp) | Two Pointers, String | Easy | 44.4% | 150 | 14
-| 922 | Sort Array By Parity II | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/922.cpp) | Array, Sort | Easy | 66.4% | 183 | 17
+| 922 | Sort Array By Parity II | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/922.cpp) | Array, Sort | Easy | 66.5% | 183 | 17
 | 919 | Complete Binary Tree Inserter | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/919.cpp) | Tree | Medium | 54.6% | 95 | 24
 | 914 | X of a Kind in a Deck of Cards | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/914.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/914.cpp) | Array, Math | Easy | 34.3% | 157 | 30
 | 905 | Sort Array By Parity | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/905.cpp), [Python](https://github.com/ZintrulCre/LeetCode/blob/master/python/905.py) | Array | Easy | 71.9% | 325 | 43
@@ -84,14 +84,14 @@
 | 824 | Goat Latin | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/824.cpp) | String | Easy | 56.6% | 115 | 328
 | 817 | Linked List Components | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/817.cpp) | Linked List | Medium | 53.3% | 175 | 408
 | 814 | Binary Tree Pruning | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/814.cpp) | Tree | Medium | 69.6% | 433 | 11
-| 813 | Largest Sum of Averages | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/813.cpp) | Dynamic Programming | Medium | 43.4% | 435 | 15
+| 813 | Largest Sum of Averages | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/813.cpp) | Dynamic Programming | Medium | 43.4% | 436 | 15
 | 811 | Subdomain Visit Count | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/811.cpp) | Hash Table | Easy | 63.3% | 201 | 296
 | 807 | Max Increase to Keep City Skyline | [Golang](https://github.com/ZintrulCre/LeetCode/blob/master/golang/807.go), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/807.cpp) | None | Medium | 80.8% | 407 | 86
 | 804 | Unique Morse Code Words | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/804.cpp) | String | Easy | 73.5% | 371 | 252
 | 801 | Minimum Swaps To Make Sequences Increasing | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/801.cpp) | Dynamic Programming | Medium | 33.8% | 415 | 25
 | 788 | Rotated Digits | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/788.cpp) | String | Easy | 52.7% | 156 | 540
 | 787 | Cheapest Flights Within K Stops | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/787.cpp) | Dynamic Programming, Heap, Breadth-first Search | Medium | 33.4% | 610 | 21
-| 784 | Letter Case Permutation | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/784.cpp) | Backtracking, Bit Manipulation | Easy | 54.9% | 502 | 62
+| 784 | Letter Case Permutation | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/784.cpp) | Backtracking, Bit Manipulation | Easy | 54.9% | 503 | 62
 | 775 | Global and Local Inversions | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/775.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/775.cpp) | Array, Math | Medium | 37.3% | 180 | 90
 | 771 | Jewels and Stones | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/771.cpp), [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/771.py) | Hash Table | Easy | 82.6% | 1197 | 223
 | 769 | Max Chunks To Make Sorted | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/769.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/769.cpp) | Array | Medium | 50.8% | 391 | 68
@@ -107,7 +107,7 @@
 | 729 | My Calendar I | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/729.cpp) | Array | Medium | 45.9% | 305 | 24
 | 725 | Split Linked List in Parts | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/725.cpp) | Linked List | Medium | 48.4% | 302 | 69
 | 724 | Find Pivot Index | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/724.cpp) | Array | Easy | 40.2% | 499 | 113
-| 718 | Maximum Length of Repeated Subarray | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/718.cpp) | Array, Hash Table, Binary Search, Dynamic Programming | Medium | 44.4% | 523 | 21
+| 718 | Maximum Length of Repeated Subarray | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/718.cpp) | Array, Hash Table, Binary Search, Dynamic Programming | Medium | 44.4% | 524 | 21
 | 717 | 1-bit and 2-bit Characters | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/717.cpp) | Array | Easy | 48.8% | 223 | 562
 | 714 | Best Time to Buy and Sell Stock with Transaction Fee | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/714.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/714.cpp) | Array, Dynamic Programming, Greedy | Medium | 49.2% | 767 | 29
 | 709 | To Lower Case | [Python](https://github.com/ZintrulCre/LeetCode/blob/master/python/709.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/709.cpp) | String | Easy | 75.8% | 214 | 699
@@ -118,7 +118,7 @@
 | 697 | Degree of an Array | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/697.cpp) | Array | Easy | 48.7% | 435 | 352
 | 695 | Max Area of Island | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/695.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/695.cpp) | Array, Depth-first Search | Medium | 55.4% | 937 | 54
 | 693 | Binary Number with Alternating Bits | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/693.cpp) | Bit Manipulation | Easy | 57.4% | 267 | 69
-| 687 | Longest Univalue Path | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/687.cpp) | Tree, Recursion | Easy | 33.2% | 816 | 177
+| 687 | Longest Univalue Path | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/687.cpp) | Tree, Recursion | Easy | 33.2% | 817 | 177
 | 682 | Baseball Game | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/682.cpp) | Stack | Easy | 60.0% | 276 | 674
 | 674 | Longest Continuous Increasing Subsequence | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/674.cpp) | Array | Easy | 43.6% | 391 | 90
 | 673 | Number of Longest Increasing Subsequence | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/673.cpp) | Dynamic Programming | Medium | 33.0% | 684 | 46
@@ -139,7 +139,7 @@
 | 637 | Average of Levels in Binary Tree | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/637.cpp) | Tree | Easy | 57.7% | 730 | 117
 | 628 | Maximum Product of Three Numbers | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/628.cpp) | Array, Math | Easy | 45.4% | 579 | 240
 | 623 | Add One Row to Tree | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/623.cpp) | Tree | Medium | 46.8% | 238 | 95
-| 621 | Task Scheduler | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/621.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/621.cpp) | Array, Greedy, Queue | Medium | 44.0% | 1322 | 213
+| 621 | Task Scheduler | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/621.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/621.cpp) | Array, Greedy, Queue | Medium | 44.0% | 1322 | 214
 | 617 | Merge Two Binary Trees | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/617.cpp) | Tree | Easy | 68.8% | 1586 | 115
 | 611 | Valid Triangle Number | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/611.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/611.cpp) | Array | Medium | 43.9% | 489 | 63
 | 606 | Construct String from Binary Tree | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/606.cpp) | String, Tree | Easy | 50.9% | 484 | 645
@@ -245,7 +245,7 @@
 | 203 | Remove Linked List Elements | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/203.cpp) | Linked List | Easy | 35.1% | 687 | 41
 | 202 | Happy Number | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/202.py) | Hash Table, Math | Easy | 44.0% | 729 | 172
 | 199 | Binary Tree Right Side View | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/199.cpp) | Tree, Depth-first Search, Breadth-first Search | Medium | 46.2% | 818 | 31
-| 198 | House Robber | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/198.cpp) | Dynamic Programming | Easy | 40.7% | 2061 | 67
+| 198 | House Robber | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/198.cpp) | Dynamic Programming | Easy | 40.7% | 2062 | 67
 | 189 | Rotate Array | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/189.cpp) | Array | Easy | 28.5% | 1044 | 554
 | 173 | Binary Search Tree Iterator | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/173.cpp) | Stack, Tree, Design | Medium | 46.5% | 1109 | 230
 | 169 | Majority Element | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/169.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/169.cpp) | Array, Divide and Conquer, Bit Manipulation | Easy | 51.1% | 1357 | 124
@@ -268,7 +268,7 @@
 | 120 | Triangle | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/120.cpp) | Array, Dynamic Programming | Medium | 38.0% | 919 | 97
 | 119 | Pascal's Triangle II | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/119.cpp) | Array | Easy | 41.5% | 402 | 151
 | 118 | Pascal's Triangle | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/118.cpp) | Array | Easy | 44.0% | 575 | 70
-| 114 | Flatten Binary Tree to Linked List | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/114.cpp) | Tree, Depth-first Search | Medium | 40.7% | 1198 | 148
+| 114 | Flatten Binary Tree to Linked List | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/114.cpp) | Tree, Depth-first Search | Medium | 40.7% | 1199 | 148
 | 113 | Path Sum II | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/113.cpp) | Tree, Depth-first Search | Medium | 39.0% | 708 | 27
 | 112 | Path Sum | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/112.cpp) | Tree, Depth-first Search | Easy | 36.8% | 759 | 240
 | 111 | Minimum Depth of Binary Tree | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/111.cpp) | Tree, Depth-first Search, Breadth-first Search | Easy | 34.7% | 614 | 306
@@ -302,7 +302,7 @@
 | 69 | Sqrt(x) | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/69.cpp) | Math, Binary Search | Easy | 30.4% | 630 | 1158
 | 66 | Plus One | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/66.cpp), [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/66.py) | Array, Math | Easy | 40.5% | 727 | 1324
 | 64 | Minimum Path Sum | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/64.cpp) | Array, Dynamic Programming | Medium | 45.1% | 1089 | 28
-| 63 | Unique Paths II | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/63.cpp) | Array, Dynamic Programming | Medium | 33.2% | 699 | 71
+| 63 | Unique Paths II | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/63.cpp) | Array, Dynamic Programming | Medium | 33.2% | 699 | 72
 | 62 | Unique Paths | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/62.cpp) | Array, Dynamic Programming | Medium | 45.9% | 1233 | 88
 | 61 | Rotate List | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/61.cpp) | Linked List, Two Pointers | Medium | 26.3% | 493 | 758
 | 60 | Permutation Sequence | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/60.cpp) | Math, Backtracking | Medium | 31.9% | 679 | 187
@@ -317,13 +317,13 @@
 | 46 | Permutations | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/46.cpp) | Backtracking | Medium | 52.8% | 1604 | 45
 | 40 | Combination Sum II | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/40.cpp) | Array, Backtracking | Medium | 39.7% | 676 | 37
 | 39 | Combination Sum | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/39.cpp) | Array, Backtracking | Medium | 46.1% | 1602 | 45
-| 35 | Search Insert Position | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/35.cpp) | Array, Binary Search | Easy | 40.3% | 1097 | 156
-| 33 | Search in Rotated Sorted Array | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/33.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/33.cpp) | Array, Binary Search | Medium | 32.5% | 1904 | 272
-| 31 | Next Permutation | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/31.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/31.cpp) | Array | Medium | 29.9% | 1386 | 408
+| 35 | Search Insert Position | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/35.cpp) | Array, Binary Search | Easy | 40.3% | 1098 | 156
+| 33 | Search in Rotated Sorted Array | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/33.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/33.cpp) | Array, Binary Search | Medium | 32.6% | 1904 | 272
+| 31 | Next Permutation | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/31.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/31.cpp) | Array | Medium | 29.9% | 1387 | 408
 | 27 | Remove Element | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/27.cpp) | Array, Two Pointers | Easy | 43.2% | 698 | 1517
 | 26 | Remove Duplicates from Sorted Array | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/26.cpp), [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/26.py) | Array, Two Pointers | Easy | 39.3% | 1312 | 2745
 | 25 | Reverse Nodes in k-Group | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/25.cpp) | Linked List | Hard | 35.0% | 920 | 199
-| 24 | Swap Nodes in Pairs | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/24.cpp) | Linked List | Medium | 42.6% | 865 | 82
+| 24 | Swap Nodes in Pairs | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/24.cpp) | Linked List | Medium | 42.6% | 866 | 82
 | 22 | Generate Parentheses | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/22.cpp) | String, Backtracking | Medium | 52.6% | 2256 | 143
 | 21 | Merge Two Sorted Lists | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/21.cpp) | Linked List | Easy | 45.3% | 1839 | 255
 | 20 | Valid Parentheses | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/20.cpp) | String, Stack | Easy | 35.7% | 2468 | 122
@@ -334,4 +334,4 @@
 | 11 | Container With Most Water | [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/11.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/11.cpp) | Array, Two Pointers | Medium | 41.9% | 2610 | 399
 | 5 | Longest Palindromic Substring | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/5.cpp) | String, Dynamic Programming | Medium | 26.2% | 2894 | 282
 | 2 | Add Two Numbers | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/2.cpp) | Linked List, Math | Medium | 30.3% | 4423 | 1082
-| 1 | Two Sum | [Golang](https://github.com/ZintrulCre/LeetCode/blob/master/golang/1.go), [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/1.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/1.cpp) | Array, Hash Table | Easy | 40.1% | 9651 | 307
+| 1 | Two Sum | [Golang](https://github.com/ZintrulCre/LeetCode/blob/master/golang/1.go), [Python3](https://github.com/ZintrulCre/LeetCode/blob/master/python3/1.py), [C++](https://github.com/ZintrulCre/LeetCode/blob/master/cpp/1.cpp) | Array, Hash Table | Easy | 40.1% | 9651 | 308

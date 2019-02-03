@@ -7,7 +7,7 @@ public:
         for (int k = 0; k < strs.size(); ++k) {
             int num0 = 0, num1 = 0;
             for (int j = 0; j < strs[k].size(); ++j) {
-                if (strs[k][j] == \u00270\u0027)
+                if (strs[k][j] == '0')
                     ++num0;
                 else
                     ++num1;
