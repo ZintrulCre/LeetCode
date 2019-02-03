@@ -1,14 +1,14 @@
 class Solution {
 public:
     vector<int> sortArrayByParity(vector<int> &A) {
-        vector<int> even, odd;
-        for (int a : A) {
-            if (a % 2 == 0)
-                even.push_back(a);
-            else
-                odd.push_back(a);
+        int i = 0, j = 0;
+        while (j < A.size()) {
+            if (A[j] % 2 == 0) {
+                swap(A[i], A[j]);
+                ++i;
+            }
+            ++j;
         }
-        even.insert(even.end(), odd.begin(), odd.end());
-        return even;
+        return A;
     }
 };
