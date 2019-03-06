@@ -12,9 +12,6 @@
 | 118 | 970 | [Powerful Integers](https://leetcode.com/contest/weekly-contest-118/problems/Vowel-Spellchecker/) | 3 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/970.cpp) | Java | [Python](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/Python/970.py) |
 | 118 | 969 | [Pancake Sorting](https://leetcode.com/contest/weekly-contest-118/problems/Vowel-Spellchecker/) | 5 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/969.cpp) | Java | [Python](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/Python/969.py) |
 | 118 | 971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/contest/weekly-contest-118/problems/Vowel-Spellchecker/) | 6 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/971.cpp) | Java | Python |
-| 119 | 973 | [K Closest Points to Origin](https://leetcode.com/contest/weekly-contest-119/problems/K-Closest-Points-to-Origin/) | 3 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/973.cpp) | Java | [Python](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/Python/973.py) |
-| 119 | 976 | [Largest Perimeter Triangle](https://leetcode.com/contest/weekly-contest-119/problems/Largest-Perimeter-Triangle/) | 4 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/976.cpp) | Java | [Python](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/Python/976.py) |
-| 119 | 974 | [Subarray Sums Divisible by K](https://leetcode.com/contest/weekly-contest-119/problems/Subarray-Sums-Divisible-by-K/) | 6 | [C++](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/C%2B%2B/974.cpp) | Java | [Python](https://github.com/ZintrulCre/LeetCode/blob/master/Weekly%20Contest/Python/974.py) |
 
 
 | # | Title | Topic | Difficulty | C++ | Java | Python|
