@@ -1,4 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-
+* [目录](README.md)
+* 动态规划
+  * [丑数](动态规划/丑数.md)
+  * [买卖股票](动态规划/买卖股票.md)
