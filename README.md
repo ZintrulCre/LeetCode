@@ -1,7 +1,4 @@
 # LeetCode 分类解题
 
-## 目录
-
-* 动态规划
-  * [丑数](动态规划/丑数.md)
-  * [买卖股票](动态规划/买卖股票.md)
+- [GitHub链接](https://github.com/ZintrulCre/LeetCode-Solution)
+- [个人主页](https://zintrulcre.vip/)
